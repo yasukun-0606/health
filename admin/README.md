@@ -1,1 +1,0 @@
-#admin side application folder
